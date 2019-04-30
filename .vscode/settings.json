@@ -1,0 +1,10 @@
+{
+	"editor.tabSize": 4,
+	"editor.rulers": [150],
+	"editor.formatOnSave": false,
+	"eslint.autoFixOnSave": true,
+	"editor.showFoldingControls": "always",
+	"editor.folding": true,
+	"editor.foldingStrategy": "indentation",
+	"editor.wordWrap": "on"
+}
